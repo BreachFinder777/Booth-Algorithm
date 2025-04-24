@@ -102,4 +102,4 @@ def booths_algorithm(multiplicand, multiplier, bit_size=8):
     return result
 
 # Test with the example from the image: 15 × (-3)
-booths_algorithm(15, -3, 8)
+booths_algorithm(15, -3, 5)

@@ -103,5 +103,5 @@ def booths_algorithm(multiplicand, multiplier, bit_size=8):
 # Keep a note if you want to multiply like 20 and -3 you have to set the no of bits to 8
 # Test with the example from the image: 15 × (-3)
 """here i have set the bit to 5 for less no of calculation steps
-#change the bits according to your need"""
+change the bits according to your need"""
 booths_algorithm(15, -3, 5)

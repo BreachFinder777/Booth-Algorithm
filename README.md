@@ -1,5 +1,5 @@
 # Booth's Multiplication Algorithm Implementation
-
+# Keep a note if you want to multiply like 20 and -3 you have to set the no of bits to 8
 This repository contains a Python implementation of Booth's multiplication algorithm, a technique for multiplying binary numbers in two's complement notation.
 
 ## Overview
